@@ -2,7 +2,6 @@ RC_Practice_Utility
 ===================
 
 Run the file RC.html to start using the utiliy.<br><br>
-
 The utility takes an indexed array with the reading comprehensions and the respective questions and answers. The following is the format of the array.
 
 data[passage_index][0]=passage data <br>
