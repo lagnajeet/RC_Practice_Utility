@@ -2,7 +2,7 @@ RC_Practice_Utility
 ===================
 
 <b>Please read before downloading</b>
-<br><b>A <a href="https://github.com/lagnajeet/RC_Practice_Desktop_App">standalone desktop version</a> is available for the same purpose.</b>
+<br><b>A <a href="https://github.com/lagnajeet/RC_Practice_Desktop_App">standalone desktop version</a> is available for the same purpose. Please consider using the desktop app as it is under more active developmental focus</b>
 
 Run the file RC.html to start using the utiliy.<br><br>
 The utility takes an indexed array with the reading comprehensions and the respective questions and answers. The following is the format of the array.
